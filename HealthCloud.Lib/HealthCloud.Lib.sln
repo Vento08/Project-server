@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCloud.Lib", "HealthCloud.Lib.csproj", "{CA54A3D0-0F16-4554-A1D7-8DD928DA43C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCloud.Tests", "..\HealthCloud.Tests\HealthCloud.Tests.csproj", "{213484E0-F19E-4300-80BC-C29AE55E5599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA54A3D0-0F16-4554-A1D7-8DD928DA43C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA54A3D0-0F16-4554-A1D7-8DD928DA43C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA54A3D0-0F16-4554-A1D7-8DD928DA43C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA54A3D0-0F16-4554-A1D7-8DD928DA43C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213484E0-F19E-4300-80BC-C29AE55E5599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213484E0-F19E-4300-80BC-C29AE55E5599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213484E0-F19E-4300-80BC-C29AE55E5599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213484E0-F19E-4300-80BC-C29AE55E5599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBDDCC5-DA40-4AC0-9593-017719311E3B}
+	EndGlobalSection
+EndGlobal
